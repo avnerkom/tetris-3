@@ -6,7 +6,7 @@ A feature-rich, modern implementation of Tetris with stunning 3D graphics, dynam
 
 ## 🌟 Live Demo
 
-[Play the game here!](#) *(Add your GitHub Pages link)*
+[Play the game here!]([#](https://avnerkom.github.io/tetris-3/))
 
 ---
 
