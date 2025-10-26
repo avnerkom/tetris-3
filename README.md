@@ -430,7 +430,7 @@ Ideas for future versions:
 
 Have questions or suggestions? Feel free to reach out!
 
-- **GitHub**: [Your GitHub Profile](#)
+- **GitHub**: [Avner](https://avnerkom.github.io/tetris-3/)
 - **Email**: avner.komarow@gmail.com
 
 ---
